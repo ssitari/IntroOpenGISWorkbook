@@ -1,0 +1,31 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Introduction to GIS Using Open Source Software"
+  author: "Eric Glass"
+  date: today
+  repo-url: https://github.com/ssitari/IntroOpenGISWorkbook
+  repo-actions: [edit, issue]
+  license: "CC BY 4.0"
+  back-to-top-navigation: true
+  page-footer:
+    center: "Introduction to GIS Using Open Source Software &copy; Eric Glass, CC BY 4.0"
+  
+  chapters:
+    - index.qmd
+    - chapters/introduction.qmd
+    - chapters/01-interface.qmd
+    - chapters/02-working-with-data.qmd
+    - chapters/03-analysis.qmd
+    - chapters/04-cartography.qmd
+    - chapters/05-creating-data.qmd
+    - chapters/06-going-further.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true

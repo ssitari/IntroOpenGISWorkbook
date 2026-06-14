@@ -1,0 +1,82 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "chapters/introduction.html",
+    "href": "chapters/introduction.html",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "",
+    "text": "��",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>introduction.html</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-interface.html",
+    "href": "chapters/01-interface.html",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "",
+    "text": "��",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>01-interface.html</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-working-with-data.html",
+    "href": "chapters/02-working-with-data.html",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "",
+    "text": "��",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>02-working-with-data.html</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-analysis.html",
+    "href": "chapters/03-analysis.html",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "",
+    "text": "��",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>03-analysis.html</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-cartography.html",
+    "href": "chapters/04-cartography.html",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "",
+    "text": "��",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>04-cartography.html</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-creating-data.html",
+    "href": "chapters/05-creating-data.html",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "",
+    "text": "��",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>05-creating-data.html</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-going-further.html",
+    "href": "chapters/06-going-further.html",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "",
+    "text": "��",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>06-going-further.html</span>"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "2e90838c"
+  },
+  "chapters/introduction.qmd": {
+    "introduction.html": "e5c8f437"
+  },
+  "chapters/01-interface.qmd": {
+    "01-interface.html": "2ee8db9b"
+  },
+  "chapters/02-working-with-data.qmd": {
+    "02-working-with-data.html": "d300d09a"
+  },
+  "chapters/03-analysis.qmd": {
+    "03-analysis.html": "cf26be5e"
+  },
+  "chapters/04-cartography.qmd": {
+    "04-cartography.html": "3b328e33"
+  },
+  "chapters/05-creating-data.qmd": {
+    "05-creating-data.html": "b9a1778c"
+  },
+  "chapters/06-going-further.qmd": {
+    "06-going-further.html": "9cf9a378"
+  }
+}
