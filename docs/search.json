@@ -4,7 +4,67 @@
     "href": "index.html",
     "title": "Introduction to GIS Using Open Source Software",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface\nThis text provides an introduction to geographic information systems (GIS) for researchers, graduate students, and faculty who want to incorporate spatial thinking and spatial methods into their work. It assumes no prior experience with GIS software.\nThe workshop is built around QGIS 3.44, a free and open source desktop GIS that runs on Windows, Mac, and Linux. All data used in the exercises is freely available and provided in open formats. No software purchase or institutional license is required.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#who-this-is-for",
+    "href": "index.html#who-this-is-for",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "Who this is for",
+    "text": "Who this is for\nThis text is designed for the cross-disciplinary research community — social scientists, urban scholars, humanists, public health researchers, and others who encounter spatial questions in their work but have not had formal GIS training. The exercises use New York City as their primary geographic context, making them particularly relevant for Columbia University researchers, though the methods and concepts apply anywhere.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#what-this-is-not",
+    "href": "index.html#what-this-is-not",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "What this is not",
+    "text": "What this is not\nThis is not a comprehensive GIS reference manual, nor a technical introduction to spatial data science or programming. It is a foundation — enough to get you working with real data, asking spatial questions, and producing maps and analyses you can use in your research. The final chapter points toward next steps for those who want to go further.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-text",
+    "href": "index.html#how-to-use-this-text",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "How to use this text",
+    "text": "How to use this text\nEach chapter is organized around a set of steps — the specific actions to take in QGIS — followed by commentary that explains what you just did and why it matters. When working through the exercises, follow the steps with QGIS open in front of you, then read the commentary to consolidate your understanding before moving on.\nWorkshop data for each chapter is provided as GeoPackage files, available for download from this book’s GitHub repository. Instructions for accessing the same data from its original sources are included in each chapter, for readers who want to understand data provenance or work with more current versions.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#a-note-on-versions",
+    "href": "index.html#a-note-on-versions",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "A note on versions",
+    "text": "A note on versions\nThis text was written for QGIS 3.44, the current Long Term Release (LTR) at time of writing. QGIS 4.0 was released in March 2026 and introduces significant infrastructure improvements while maintaining a familiar interface — core workflows described here are compatible with 4.x. The text will be updated for QGIS 4.2 LTR upon its release in October 2026.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgments",
+    "href": "index.html#acknowledgments",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\nThis text draws inspiration from Frank Donnelly’s Introduction to GIS Using Open Source Software (Baruch College CUNY, 2020) and from tutorial materials developed by the Center for Spatial Research at Columbia University. Both are recommended resources for further learning.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Introduction to GIS Using Open Source Software",
+    "section": "About",
+    "text": "About\nThis text is developed and maintained by Eric Glass, Research Data Services, Columbia University Libraries. For questions about GIS support at Columbia, visit Research Data Services.\n\n\n\n\n\n\nNote\n\n\n\nThis text is a work in progress. A first complete version is expected in September 2026. Chapters may be incomplete or subject to revision.",
     "crumbs": [
       "Preface"
     ]
